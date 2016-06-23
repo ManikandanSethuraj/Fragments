@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Fragments</string>
+
+    <string-array name="android_versions">
+        <item>"KK"</item>
+        <item>"ISW"</item>
+        <item>"MM"</item>
+        <item>"GB"</item>
+        <item>"ES"</item>
+        <item>"LP"</item>
+
+    </string-array>
 </resources>
